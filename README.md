@@ -4,11 +4,11 @@ I'm currently just studying but, now i'm look for a work internship
 
 I have web development skills, like:
 
-FRONT-END
+FRONT-END:
 HTML, CSS, Sass, Bootstrap, Bulma, Tailwind, JavaScript (ECMAScript), Vue
 
-BACK-END
-JAVA
+BACK-END:
+Java
 
 CONCEPTS
 Responsiveness, Accessibility and SEO
