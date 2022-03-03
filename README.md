@@ -10,7 +10,7 @@ HTML, CSS, Sass, Bootstrap, Bulma, Tailwind, JavaScript (ECMAScript), Vue
 BACK-END:
 Java
 
-CONCEPTS
+CONCEPTS:
 Responsiveness, Accessibility and SEO
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" /> 
