@@ -8,7 +8,7 @@ FRONT-END:
 HTML, CSS, Sass, Bootstrap, Bulma, Tailwind, JavaScript (ECMAScript), Vue
 
 BACK-END:
-Java
+Java,.NET
 
 CONCEPTS:
 Responsiveness, Accessibility and SEO
