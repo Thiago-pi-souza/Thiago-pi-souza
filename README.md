@@ -35,6 +35,3 @@ Group Work, Organization, Time management, Creativity, Communication and  Proact
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-pi-souza&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
