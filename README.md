@@ -24,7 +24,7 @@ English(Advanced)
 Spanish(Intermediate)
 Korean(Basic)  
 
-CONCEPTS
+CONCEPTS:
 Hardware Basics, Responsiveness, Accessibility, SEO, MVC, Web App, Network and Servers
 
 Agile Methodology:
