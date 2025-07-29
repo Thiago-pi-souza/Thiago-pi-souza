@@ -7,7 +7,7 @@ My Knowledge and  Skils:
 FRONT-END:
 HTML, CSS, Sass, Bootstrap, Bulma, Tailwind, JavaScript (ECMAScript), React.JS
 
-BACK-END
+BACK-END:
  C, C#, .NET, Python, Java
 
 DATABASE:
