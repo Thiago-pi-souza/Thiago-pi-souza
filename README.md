@@ -1,4 +1,4 @@
-Hi, my names is Thiago Souza
+Hi, my names is Thiago Souza.
 
 I'm currently Work in Machinery Manufacturing industry in production planning and control sector named Panegossi, and study for technology area to turn a developer.  
 
